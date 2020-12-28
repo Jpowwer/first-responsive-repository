@@ -8,4 +8,4 @@ I've completed Juno college's Web Development & JavaScript courses and hope to p
 
 
 My favourite colour is all of the colours. 
-Thank you for reading! 
+Thank you for reading!
