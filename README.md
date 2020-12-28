@@ -1,8 +1,9 @@
 # first-responsive-repository
 Hello I'm Joshua, this is one of my first Github repositories. If you see this it's because I'm
-learning Git & Github. 
+learning Git & Github. I still have a long path of learning ahead and am eager to continue learning
+and developing my knowledge and skill. 
 
-I've completed Juno college's Web Development & JavaScript courses and hope to pursue the Bootcamp. 
+I've completed Juno college's Web Development & JavaScript courses and hope to pursue their Bootcamp. 
 
 
 
